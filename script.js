@@ -41,4 +41,3 @@ const taskObj = {
     date: dateInput.value,
     description: descriptionInput.value,
 };
-console.log(taskObj);
